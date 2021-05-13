@@ -10,7 +10,7 @@ module.exports = {
   // basic site info (required)
   name: 'Pressing Progress',
   domain: 'pressingprogress.com',
-  author: 'Tom Malcolmson',
+  author: 'Pressing Progress',
 
   // open graph metadata (optional)
   description: 'Pressing Progress',
@@ -33,7 +33,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: null,
+  // utterancesGitHubRepo: null,
 
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
